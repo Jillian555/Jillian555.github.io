@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a D.Eng. student in Vision Group, Lab of Machine Learning and Data Mining, Tianjin University, advised by Prof. Pengfei Zhu.  Prior to attending TJU, I obtained my B.Sc. degree from Hangzhou Dianzi University, advised by Prof, Jun Yu in June 2020.
+Jialu Li(李佳璐) received her B.S. degree from Tianjin Polytechnic University, Tianjin, China, in 2020, and received her M.S. degree from Tianjin University, Tianjin, China, in 2023. She is currently working towards the Ph.D. degree in the College of Intelligence and Computing, Tianjin University, Tianjin, China. Her supervisor was Prof. Pengfei Zhu (朱鹏飞) and Assoc. Prof. Yu Wang (王煜) in Tianjin University.
 
 ## Research Interests
 
-- **Image Fusion:** RGB-Infrared, Medical Image(CT-MRI, PET-MRI) image fusion
-- **Image-to-Image Translation:** Sketch-Photo transfer
-- **Medical Image Processing:** Disease diagnosis, OAR prediction, Oragns segmentation.
+- **Collaborative Learning** 
+- **Continual Learning** 
+- **Graph neural network**
   
 ## News
 
