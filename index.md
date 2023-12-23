@@ -15,12 +15,13 @@ Jialu Li (李佳璐) received her B.S. degree from Tianjin Polytechnic Universit
   
 ## News
 
-- **[2023-12]** "Collaborative Decision-Reinforced Self-Supervision for Attributed Graph Clustering" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-- **[2022-04]** "Every Node is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering" has been accepted by AAAI Conference on Artificial Intelligence (AAAI).
+- **[2023-12]** "Every Node is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering" has been accepted by AAAI Conference on Artificial Intelligence (AAAI).
+- **[2022-04]** "Collaborative Decision-Reinforced Self-Supervision for Attributed Graph Clustering" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+
 
 ## Honors
 
-- **[2023]** Excellent Master's Thesis of Tianjin University
+- **[2023]** Excellent M.S. Thesis of Tianjin University
 
 
 
