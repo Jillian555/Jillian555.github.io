@@ -1,16 +1,10 @@
 main:
 
-# - title: "Collaborative Decision-Reinforced Self-Supervision for Attributed Graph Clustering"
-#       authors: Pengfei Zhu, <strong>Jialu Li</strong>, Yu Wang*, Bin Xiao , Shuai Zhao, and Qinghua Hu.
-#       conference_short: TNNLS
-#       conference: IEEE Transactions on Neural Networks and Learning Systems, 2023
-#       pdf: https://ieeexplore.ieee.org/document/9777842
-#       code: https://github.com/Jillian555/TNNLS_CDRS
-#       image: ./assets/img/coll.png
-- title: "Toward Realistic Face Photo–Sketch Synthesis via Composition-Aided GANs"
-      authors: Jun Yu, <strong>Xingxin Xu</strong>, Fei Gao, Shengjie Shi, Meng Wang, Dacheng Tao, Qingming Huang.
-      conference_short: TCYB
-      conference: IEEE transactions on cybernetics, 2020
-      pdf: https://ieeexplore.ieee.org/abstract/document/9025751/
-      code: https://github.com/jehovahxu/ca-gan
-      image: ./assets/img/CAGAN_architecture.png
+      - title: "Collaborative Decision-Reinforced Self-Supervision for Attributed Graph Clustering"
+            authors: Pengfei Zhu, <strong>Jialu Li</strong>, Yu Wang*, Bin Xiao , Shuai Zhao, and Qinghua Hu.
+            conference_short: TNNLS
+            conference: IEEE Transactions on Neural Networks and Learning Systems, 2023
+            pdf: https://ieeexplore.ieee.org/document/9777842
+            code: https://github.com/Jillian555/TNNLS_CDRS
+            image: ./assets/img/coll.png
+
