@@ -8,7 +8,7 @@ Jialu Li (李佳璐) received her B.S. degree from Tianjin Polytechnic Universit
 
 ## Research Interests
 
-- **Graph neural network**
+- **Graph Neural Network**
 - **Collaborative Learning** 
 - **Continual Learning** 
 
