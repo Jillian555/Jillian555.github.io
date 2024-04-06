@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Jialu Li (李佳璐) received her B.S. degree from Tianjin Polytechnic University, Tianjin, China, in 2020, and received her M.S. degree from Tianjin University, Tianjin, China, in 2023. She worked as a research assistant at Hong Kong Polytechnic University, in 2021 and interned at Baidu Big Data Lab, in 2022. She is currently working towards the Ph.D. degree in the College of Intelligence and Computing, Tianjin University, Tianjin, China. Her supervisor are Prof. *[Pengfei Zhu](https://scholar.google.com.hk/citations?user=iS27HZ8AAAAJ&hl=zh-CN)* *[(朱鹏飞)](http://aiskyeye.com/)* and Assoc. Prof. *[Yu Wang](https://scholar.google.com.hk/citations?user=iS27HZ8AAAAJ&hl=zh-CN)* *[(王煜)](https://wangyutju.github.io/)* in Tianjin University.   
+Jialu Li (李佳璐) received her B.S. degree from Tianjin Polytechnic University, Tianjin, China, in 2020, and received her M.S. degree from Tianjin University, Tianjin, China, in 2023. She worked as a research assistant at Hong Kong Polytechnic University, in 2021 and interned at Baidu Big Data Lab, in 2022. She is currently working towards the Ph.D. degree in the College of Intelligence and Computing, Tianjin University, Tianjin, China. Her supervisor are Prof. *[Pengfei Zhu](https://scholar.google.com.hk/citations?user=iS27HZ8AAAAJ&hl=zh-CN)* *[(朱鹏飞)](http://aiskyeye.com/)* and Assoc. Prof. *[Yu Wang](https://scholar.google.com.hk/citations?user=-SV3h7oAAAAJ&hl=zh-CN)* *[(王煜)](https://wangyutju.github.io/)* in Tianjin University.   
   
 ## Research Interests
 
