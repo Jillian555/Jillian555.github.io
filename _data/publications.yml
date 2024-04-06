@@ -33,6 +33,6 @@ main:
       authors: Pengfei Zhu, Qian Wang, Yu Wang*, <strong>Jialu Li</strong>, and Qinghua Hu.
       conference_short: AAAI
       conference: AAAI Conference on Artificial Intelligence, 2024
-      #pdf: https://ieeexplore.ieee.org/document/9777842
-      #code: https://github.com/Jillian555/TNNLS_CDRS
+      pdf: https://arxiv.org/pdf/2401.06595.pdf
+      code: https://github.com/q086/DyFSS
       image: ./assets/img/every.png
