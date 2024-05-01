@@ -38,7 +38,7 @@ main:
       image: ./assets/img/every.png
 
     - title: "CCP-GNN: Competitive Covariance Pooling for Improving Graph Neural Networks"
-      authors: Pengfei Zhu, <strong>Jialu Li</strong>, Zhe Dong, Qinghua Hu, Xiao Wang, and Qilong Wang
+      authors: Pengfei Zhu, <strong>Jialu Li</strong>, Zhe Dong, Qinghua Hu, Xiao Wang, and Qilong Wang*
       conference_short: TNNLS
       conference: IEEE Transactions on Neural Networks and Learning Systems, 2024
       pdf: https://ieeexplore.ieee.org/document/10509794
