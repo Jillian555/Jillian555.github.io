@@ -19,12 +19,11 @@ Jialu Li (李佳璐) received her B.S. degree from Tianjin Polytechnic Universit
 - **[2022-04]** "Collaborative Decision-Reinforced Self-Supervision for Attributed Graph Clustering" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
 
+{% include_relative _includes/publications.md %}
+
 ## Honors
 
 - **[2023]** Excellent M.S. Thesis of Tianjin University
 
-
-
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
