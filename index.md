@@ -14,7 +14,9 @@ Jialu Li (李佳璐) received her B.S. degree from Tianjin Polytechnic Universit
 
   
 ## News
-
+- **[2024-05]** "Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration" has been accepted by International Conference on Machine Learning (ICML).
+- **[2024-05]** "Boosting Pseudo Labeling with Curriculum Self-Reflexion for Attributed Graph Clustering" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+- **[2024-04]** "CCP-GNN: Competitive Covariance Pooling for Improving Graph Neural Networks" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 - **[2023-12]** "Every Node is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering" has been accepted by AAAI Conference on Artificial Intelligence (AAAI).
 - **[2022-04]** "Collaborative Decision-Reinforced Self-Supervision for Attributed Graph Clustering" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
