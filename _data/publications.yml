@@ -25,7 +25,7 @@ main:
     authors: Pengfei Zhu, <strong>Jialu Li</strong>, Yu Wang*, Bin Xiao, Jinglin Zhang, Wanyu Lin, Qinghua Hu
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems, 2024
-    pdf: https://ieeexplore.ieee.org/document/10509794
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10669618
     code: https://github.com/Jillian555/PLCSR
     image: ./assets/img/plcsr.png
 
