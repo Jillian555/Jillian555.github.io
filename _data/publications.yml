@@ -19,12 +19,12 @@ main:
   #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+  #   image: ./assets/img/teaser_example.pnghttps://openreview.net/pdf?id=tJGX7tpGO8
   - title: "What Matters in Graph Class Incremental Learning? An Information Preservation Perspective"
     authors: <strong>Jialu Li</strong>, Yu Wang, Pengfei Zhu*, Wanyu Lin, Qinghua Hu.
     conference_short: NeurIPS
     conference: Neural Information Processing Systems, 2024
-    pdf: https://openreview.net/pdf?id=tJGX7tpGO8
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10669618
     code:  https://github.com/Jillian555/GSIP
     image: ./assets/img/gsip.png
     
