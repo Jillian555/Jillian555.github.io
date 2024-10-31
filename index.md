@@ -14,6 +14,7 @@ Jialu Li (李佳璐) received her B.S. degree from Tianjin Polytechnic Universit
 
   
 ## News
+- **[2024-09]** "What Matters in Graph Class Incremental Learning? An Information Preservation Perspective" has been accepted by Neural Information Processing Systems (NeurIPS).
 - **[2024-05]** "Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration" has been accepted by International Conference on Machine Learning (ICML).
 - **[2024-05]** "Boosting Pseudo Labeling with Curriculum Self-Reflexion for Attributed Graph Clustering" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 - **[2024-04]** "CCP-GNN: Competitive Covariance Pooling for Improving Graph Neural Networks" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
