@@ -14,6 +14,7 @@ Jialu Li (李佳璐) received her B.S. degree from Tianjin Polytechnic Universit
 
   
 ## News
+- **[2025-01]** "Designing Broadband Terahertz Achromatic Metalens based on Deep Learning" has been accepted by Optics and Laser Technology.
 - **[2025-01]** "Hyperbolic-Euclidean Deep Mutual Learning" has been accepted by The Web Conference (WWW).
 - **[2024-09]** "What Matters in Graph Class Incremental Learning? An Information Preservation Perspective" has been accepted by Neural Information Processing Systems (NeurIPS).
 - **[2024-05]** "Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration" has been accepted by International Conference on Machine Learning (ICML).
