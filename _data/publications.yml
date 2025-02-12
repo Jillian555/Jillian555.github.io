@@ -53,7 +53,7 @@ main:
     image: ./assets/img/ccp.png
     
   - title: "Hyperbolic-Euclidean Deep Mutual Learning"
-    authors: Haifang Cao, Yu Wang, <strong>Jialu Li</strong>, Pengfei Zhu, Qinghua Hu.
+    authors: Haifang Cao, Yu Wang*, <strong>Jialu Li</strong>, Pengfei Zhu*, Qinghua Hu.
     conference_short: WWW
     conference: The Web Conference, 2025
     pdf: https://openreview.net/pdf?id=V2NNpFBo9w
