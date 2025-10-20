@@ -20,6 +20,14 @@ main:
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
+  - title: "Graphs Help Graphs: Multi-Agent Graph Socialized Learning"
+    authors: <strong>Jialu Li</strong>, Yu Wang, Pengfei Zhu*, Wanyu Lin, Qinghua Hu.
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems, 2025
+    pdf: https://openreview.net/pdf?id=lkw2WJLdbh
+    code:  https://github.com/Jillian555/GHG
+    image: ./assets/img/ghg.png
+    
   - title: "What Matters in Graph Class Incremental Learning? An Information Preservation Perspective"
     authors: <strong>Jialu Li</strong>, Yu Wang, Pengfei Zhu*, Wanyu Lin, Qinghua Hu.
     conference_short: NeurIPS
