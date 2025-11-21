@@ -21,7 +21,7 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
   - title: "Graphs Help Graphs: Multi-Agent Graph Socialized Learning"
-    authors: <strong>Jialu Li</strong>, Yu Wang*, Pengfei Zhu*, Wanyu Lin, Qinghua Hu.
+    authors: <strong>Jialu Li</strong>, Yu Wang*, Pengfei Zhu*, Wanyu Lin, Xinjie Yao, Qinghua Hu.
     conference_short: NeurIPS
     conference: Neural Information Processing Systems, 2025
     pdf: https://openreview.net/pdf?id=lkw2WJLdbh
