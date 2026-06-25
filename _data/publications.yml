@@ -27,6 +27,14 @@ main:
     pdf: https://openreview.net/pdf?id=lkw2WJLdbh
     code:  https://github.com/Jillian555/GHG
     image: ./assets/img/ghg.png
+
+  - title: "Collaborative Knowledge Extraction and Integration for Graph Domain Incremental Learning"
+    authors: <strong>Jialu Li</strong>, Yu Wang, Wanyu Lin, Pengfei Zhu*.
+    conference_short: KDD
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026
+    pdf: https://openreview.net/pdf?id=lkw2WJLdbh
+    code:  https://github.com/Jillian555/COOKER
+    image: ./assets/img/cooker.png
     
   - title: "What Matters in Graph Class Incremental Learning? An Information Preservation Perspective"
     authors: <strong>Jialu Li</strong>, Yu Wang, Pengfei Zhu*, Wanyu Lin, Qinghua Hu.
