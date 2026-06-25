@@ -14,6 +14,8 @@ Jialu Li (李佳璐) received her B.S. degree from Tianjin Polytechnic Universit
 
   
 ## News
+- **[2026-05]** "Collaborative Knowledge Extraction and Integration for Graph Domain Incremental Learning" has been accepted by ACM SIGKDD Conference on Knowledge Discovery and
+Data Mining (KDD).
 - **[2025-09]** "Graphs Help Graphs: Multi-Agent Graph Socialized Learning" has been accepted by Neural Information Processing Systems (NeurIPS).
 - **[2025-01]** "Designing Broadband Terahertz Achromatic Metalens based on Deep Learning" has been accepted by Optics and Laser Technology [AI4Science].
 - **[2025-01]** "Hyperbolic-Euclidean Deep Mutual Learning" has been accepted by The Web Conference (WWW).
